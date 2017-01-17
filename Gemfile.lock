@@ -67,6 +67,7 @@ GEM
     coffee-script-source (1.11.1)
     concurrent-ruby (1.0.2)
     debug_inspector (0.0.2)
+    device (0.0.0)
     erubis (2.7.0)
     excon (0.54.0)
     execjs (2.7.0)
@@ -359,6 +360,7 @@ DEPENDENCIES
   byebug
   carrierwave
   coffee-rails (~> 4.1.0)
+  device
   faker
   fog
   guard
@@ -384,4 +386,4 @@ DEPENDENCIES
   will_paginate
 
 BUNDLED WITH
-   1.13.6
+   1.13.7

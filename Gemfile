@@ -6,6 +6,8 @@ gem 'faker'
 gem 'fog'
 gem 'carrierwave'
 gem 'mini_magick'
+gem  'device'
+
 
 
 gem 'will_paginate'
